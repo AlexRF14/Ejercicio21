@@ -1,2 +1,8 @@
 Contenido inicial
+<<<<<<< HEAD
 Contenido adicional en la rama master
+=======
+Contenido adicional en la rama nueva  
+>>>>>>> rama_nueva
+Contenido adicional en la rama master que he cambiado
+Contenido adicional en la rama nueva que he cambiado
